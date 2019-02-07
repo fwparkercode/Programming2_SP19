@@ -1,4 +1,4 @@
-#LISTS (26PTS TOTAL)
+#LISTS (29PTS TOTAL)
 #In these exercises you should should use functions as needed.  All functions should have comments to describe their purpose.
 
 
@@ -23,11 +23,11 @@ count on it", "My reply is no", "My sources say no", "Outlook \
 not so good", "Very doubtful" ]
 
 
-# PROBLEM 3 (Shuffle - 5pts)
+# PROBLEM 3 (Shuffle - 8pts)
 # A playing card consists of a suit (Heart, Diamond, Club, Spade) and a value (2,3,4,5,6,7,8,9,10,J,Q,K,A).
 # Create a list of all possible playing cards, which is a deck.
-# Then create a function that shuffles the deck, producing a random order.  
-# Hmmm... I wonder if python already has a way to randomly shuffle a list...
+# Then create a function that shuffles the deck, producing a random order. Print the random deck. 
+# Then deal yourself a hand of 5 cards off the top.  Print the hand.  Print the remaining deck.
 
 
 # PROBLEM 4 (Illinois Pick 4 - 10pts)
