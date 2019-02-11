@@ -1,4 +1,4 @@
-# Text Based Hangman Sample Run:
+# TEXT BASED HANGMAN SAMPLE RUN:
 
 Welcome to Hangman
 +---+
