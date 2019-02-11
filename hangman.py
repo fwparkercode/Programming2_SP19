@@ -1,5 +1,6 @@
 '''
 Make a text based version of hangman (25pts)
+Use the sample run as an example.  Try to make it as close as possible to the example. (or better)
 '''
 
 # PSEUDOCODE
