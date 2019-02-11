@@ -1,0 +1,51 @@
+# Text Based Hangman Sample Run:
+
+Welcome to Hangman
++---+
+  |   |
+      |
+      |
+      |
+      |
+=========
+
+Used Letters: 
+
+_ _ _ _ _ _ _
+
+Choose your letter: E
+
+
+
+Sorry, E is not in your word
++---+
+  |   |
+  O   |
+      |
+      |
+      |
+=========
+
+Used Letters: E
+
+_ _ _ _ _ _ _
+
+Choose your letter: A
+
+
+There is one A in your word
++---+
+  |   |
+  O   |
+      |
+      |
+      |
+=========
+
+Used Letters: E, A
+
+_ _ _ _ A _ _
+
+Choose your letter: C
+
+# END OF SAMPLE RUN
