@@ -13,7 +13,7 @@ Use the sample run as an example.  Try to make it as close as possible to the ex
 # if the guess is correct increment correct_guesses by 1
 # if the guess is incorrect increment incorrect_guesses by 1 and draw the next part of the hangman
 # don't allow the user to select the same letter twice
-# if the incorrect_guesses is greater than 8, tell the user they lost and exit the program
+# if the incorrect_guesses is greater than 6, tell the user they lost and exit the program
 # if correct_guesses is equal to the length of the word, tell the user they won
 # ask if they want to play again
 
