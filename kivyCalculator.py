@@ -1,12 +1,13 @@
-# kivy Four Function calculator (35pts)
+# Kivy Four Function calculator (35pts)
 # emulate the built in MACOS calculator app as best you can.
 
 # GENERAL LAYOUT (10pts)
 # Make a GridLayout with 6 rows
 # Place a text input for the display in the first row
 # Row 2 through 6 will be BoxLayouts which will contain buttons.
+# Make a custom button class to simplify your kv file.
 
-FUNCTIONALITY (15pts)
+# FUNCTIONALITY (15pts)
 # When you press each button, the text is added to the display (see class example)
 # When you press the equal button, the displayed equation will be calculated and will now show the answer using the eval() function
 # When the equation cannot be evaluated, it will show "ERROR"
