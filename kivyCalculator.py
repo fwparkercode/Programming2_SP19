@@ -16,6 +16,7 @@
 
 # FORMATTING (10pts
 # Make it look and feel like the MACOS calculator as closely as possible.
+# IMPORTANT: You can change the  +/- and % buttons to something else if you want. (maybe exponent?, maybe open close parentheses?)
 # Include spacing and padding as necessary within the grid.
 # Match the button colors as closely as you can (orange, gray, white etc)
 # Match the font and text color as closely as you can.
