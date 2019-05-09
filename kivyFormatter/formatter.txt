@@ -1,0 +1,23 @@
+'''
+Formatter (26pts)
+
+Create a kivy app with the following rough layout
+
+############
+#  LABEL   #
+#  SPINNER #
+#  RADIOS  #
+#  SLIDERS #
+#  SWITCH  #
+############
+
+The label will be the formatting target for this application
+
+- The spinner will change the font of the label (minimum 2 fonts) (6pts)
+- The radios will be used to select the text for the label (3pts)
+- Three sliders will be used to adjust the rgba values of the label background canvas color. (6pts)
+- A switch will be used to change the font color from black to white. (3pts)
+
+Each control will have an associated label. (8pts)
+
+'''
